@@ -1,5 +1,5 @@
 ## info
-This is going to be the new CSW Web application!
+just playing around out building a webapp ^^
 
 ## file structure
 backend:
@@ -16,4 +16,4 @@ frontend:
 	lib/ 	  | reusable components
 
 ## dev
-for developing I recomend doing npm install inside /frontend and downloading every module via pip in the requirements.txt
+for developing I recommend doing npm install inside /frontend and downloading every module via pip in the requirements.txt
